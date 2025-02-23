@@ -29,6 +29,9 @@
 <img src="https://raw.githubusercontent.com/JuanManuel1970/JuanManuel1970/output/snake.svg" alt="Snake animation" />
 
 ###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JuanManuel1970&label=Profile%20Views&color=blue&style=plastic" alt="contador de visitas">
+</p>
 
 
 
