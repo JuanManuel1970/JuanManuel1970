@@ -46,10 +46,6 @@
   </a>
 </div>
 
-###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/JuanManuel1970/count.svg?"  />
-</div>
 
 ###
