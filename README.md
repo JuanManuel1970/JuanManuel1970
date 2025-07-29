@@ -71,7 +71,7 @@
 
 ## 🚀 Proyectos Destacados
 
-- 🔧 [Sistema de mantenimiento vehicular](https://github.com/JuanManuel1970/mantenimiento-vehicular)
+- 🔧 [Sistema de mantenimiento vehicular](https://github.com/JuanManuel1970/mantenimientoVehicular)
 - 📄 [Conversor de archivos médicos PDF a TXT](https://github.com/JuanManuel1970/prestador-txt-builder)
 
 ---
