@@ -72,7 +72,8 @@
 ## 🚀 Proyectos Destacados
 
 - 🔧 [Sistema de mantenimiento vehicular](https://github.com/JuanManuel1970/mantenimientoVehicular)
-- 📄 [Conversor de archivos médicos PDF a TXT](https://github.com/JuanManuel1970/prestador-txt-builder)
+- 📄 [Juego del ahorcado con JAVA](https://github.com/JuanManuel1970/Ahorcado)
+- 🎯 [Juego de la Batalla Naval con Python (PYGAME)](https://github.com/JuanManuel1970/batalla)
 
 ---
 
