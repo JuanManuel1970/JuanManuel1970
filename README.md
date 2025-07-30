@@ -79,9 +79,9 @@
 
 ## 🧠 Sobre mí
 
-- 💻 Apasionado por Java, automatización y sistemas web.
+- 💻 Apasionado por la programacion, automatización y sistemas.
 - 🚀 Siempre en busca de nuevos desafíos.
-- 🌱 Aprendiendo Docker, React y arquitectura escalable.
+- 🌱 Aprendiendo Java, React y arquitectura escalable.
 - 🎯 Enfocado en la calidad del código y buenas prácticas.
 
 ---
